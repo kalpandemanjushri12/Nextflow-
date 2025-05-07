@@ -5,7 +5,7 @@ process wishes {
     val name 
 
     output:
-    stdout  // this will output result on screen
+    stdout  // this will output result on terminal
 
     script:
     """
